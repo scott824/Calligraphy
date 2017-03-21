@@ -4,10 +4,10 @@
 
 ## 영문체
 
-1. 세리프체(Serif)와 산세리프체(Sans serif)
-2. 카퍼플레이트체(Copperplate)
+1. [세리프체(Serif)와 산세리프체(Sans serif)](Serif_San-Serif.md "Serif & San-Serif")
+2. [카퍼플레이트체(Copperplate)](Copperplate.md "Copperplate")
 
-영문체에서는 이러한 서체들이 대표적입니다. 물론 더 있기야 하겠지만, 작성자의 지식은 여기까지인가 봅니다. 추가적으로 플러리싱(flourishing)이라는 기법에 대해서도 알아보겠습니다.
+영문체에서는 이러한 서체들이 대표적입니다. 물론 더 있기야 하겠지만, 작성자의 지식은 여기까지인가 봅니다. 추가적으로 [플러리싱(flourishing)](Flourishing.md "Flourishing")이라는 기법에 대해서도 알아보겠습니다.
 
 ## 한글체
 1. 고딕
