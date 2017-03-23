@@ -24,3 +24,5 @@
 흔히 캘리그라피 잉크, 딥펜-브러시용, 워터프루프(waterproof)라고 표기된 병잉크는 아크릴 성분이 들어 있는 잉크라고 생각하면 됩니다. 아크릴 성분으로 인해 펜촉이나 붓에 묻은 잉크가 빨리 굳어버리기 때문에 마르기 전에 깨끗이 헹궈 닦아내지 않으면 펜촉과 붓을 망가뜨리기 쉽습니다. 수성 잉크만큼 섬세한 표현을 할 수는 없지만, 색상이 짙고 불투명하여 연습용보다 작품용으로 많이 사용됩니다.
 
 ![아크릴잉크](https://lh5.googleusercontent.com/-ibFT0c7Ezig/UlH5ZP4fWaI/AAAAAAAAAF4/tPGUkwtfKIM/s640/blogger-image--9253178.jpg)
+
+[이전](Preparation.md "before")
