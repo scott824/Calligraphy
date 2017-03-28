@@ -1,6 +1,6 @@
 # Calligraphy
 
-![Calligraphy Image](http://www.saa.co.uk/media/catalog/category/cat_calligraphy_pads_paper.jpg)
+![Calligraphy Image](images/README.jpg)
 
 ## Contents
 

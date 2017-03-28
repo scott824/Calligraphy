@@ -1,6 +1,6 @@
 ## 카퍼플레이트(Copperplate)
 
-![Copperplate font](http://luc.devroye.org/SackersEnglishScript.gif)
+![Copperplate font](images/Copperplate.gif)
 
 카퍼플레이트체는 위의 그림과 같은 느낌입니다. 약간 기울어져있고, 필기체의 느낌이 납니다. 오른쪽으로 약간 기울어져 있으며, 오른쪽 위 대각선에서 왼쪽 아래 대각선으로 선이 이어질 때 굵은 느낌이 납니다. 따라서 이 글씨체를 쓰기 위해서는 특별한 펜대가 필요합니다. 이 펜대를 오블리크 펜대라고 합니다. ([펜대](Penholder.md "Penholder") 문서 참조)
 
